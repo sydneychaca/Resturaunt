@@ -1,14 +1,11 @@
-h1 {
-    background-color: hsla(240, 100%, 50%, 0.37); text-align: center; color: white;
+h1, h3, h2 {
+   text-align: center; color: white;
 }
 
 body {
-    background-color: rgb(53, 71, 71);
+    background-image: linear-gradient(to bottom right, #023047, #219ebc);
 }
 
-h2 {
-    text-align: center;
-}
 
 p {
     text-align: center; font-size: large;
