@@ -1,5 +1,5 @@
 h1 {
-    background-color: hsla(240, 100%, 50%, 0.37); text-align: center;
+    background-color: hsla(240, 100%, 50%, 0.37); text-align: center; color: white;
 }
 
 body {
@@ -11,6 +11,6 @@ h2 {
 }
 
 p {
-    text-align: center;
+    text-align: center; font-size: large;
 }
 
